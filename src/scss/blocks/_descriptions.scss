@@ -1,0 +1,16 @@
+.description {
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+  color: $main-color;
+  margin-top: 18px;
+  &_mt23 {
+    margin-top: 23px;
+  }
+  &_mt45 {
+    margin-top: 45px;
+  }
+  &_mt70 {
+    margin-top: 70px;
+  }
+}
