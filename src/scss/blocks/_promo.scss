@@ -24,7 +24,9 @@
   &__lang {
     font-weight: 900;
     color: $main-color;
-    transform: translate(calc(50% - 8px), calc(-50% - 10px)) rotate(-90deg);
+    writing-mode: vertical-rl;
+    text-orientation: sideways-right;
+    transform: rotate(180deg);
   }
   &__lang-item {
     font-weight: 900;
