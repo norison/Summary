@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Girloy';
+    src: local('Girloy-Bold'),
+        url('../fonts/Gilroy-Bold.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Girloy';
+    src: local('Girloy-Medium'),
+        url('../fonts/Gilroy-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
