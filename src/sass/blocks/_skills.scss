@@ -11,15 +11,15 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
-  &__item-descr {
-    font-weight: 900;
-    font-size: 14px;
-    color: #828282;
-    margin-top: 24px;
-    text-align: center;
-  }
-  &__item-rate {
-    margin-top: 41px;
+    &-descr {
+      font-weight: 900;
+      font-size: 14px;
+      color: #828282;
+      margin-top: 24px;
+      text-align: center;
+    }
+    &-rate {
+      margin-top: 41px;
+    }
   }
 }
