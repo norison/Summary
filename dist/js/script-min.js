@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){window.addEventListener("scroll",function(){window.scrollY>1308?document.querySelector(".pageup").style.display="block":document.querySelector(".pageup").style.display="none"})});
